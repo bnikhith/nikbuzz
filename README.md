@@ -8,4 +8,4 @@ Wait what..?? How does my innocent command prompt showing me live score ? 🤔
 - Well, we have a beatiful library "pycricbuzz(https://pypi.org/project/pycricbuzz/)" which scraps html data from cricbuzz.com by crawling over website 'crawl_url', organizes it well and cmd plays how we wants to interact with that data.
 
 *** Win-Win Situation for entertainment and knowledge ***  
-              Fun to do.. Stuff to learn..
+&nbsp;&nbsp;&nbsp;&nbsp;Fun to do.. Stuff to learn..
